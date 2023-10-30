@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.temp {
+    font-size: 36px;
+    margin-top: 10px;
+}
+
+.temp_min {
+    font-size: 36px;
+    margin-top: 10px;
+}
+
+.temp_max {
+    font-size: 36px;
+    margin-top: 10px;
+}
+
+.city {
+    font-size: 36px;
+    margin-top: 10px;
+}
