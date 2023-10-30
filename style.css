@@ -3,12 +3,28 @@ body {
     text-align: center;
 }
 
+.title {
+    display: flex;
+    justify-content: center;
+    margin: 3rem;
+}
+
+h1 {
+    padding: 2rem;
+    border: 2px solid royalblue;
+    border-radius: 10px;
+}
+
+.content {
+    display: flex;
+}
+
 .container {
-    max-width: 400px;
+    width: 400px;
     margin: 0 auto;
     padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    border: 2px solid royalblue;
+    border-radius: 10px;
 }
 
 h1 {
